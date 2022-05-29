@@ -54,3 +54,6 @@ Review needed Technologies:
 
 
 # Sources
+https://www.arduino.cc/education/interactive-art-project?fbclid=IwAR0WFNl_j8gfs0kTGO1bSmYQIzk50Eh9iPxta66lPsm4o6aec6KrYDIAOxQ
+https://www.youtube.com/watch?v=gToZF1GLp-Q
+https://www.w3schools.com/java/java_try_catch.asp
