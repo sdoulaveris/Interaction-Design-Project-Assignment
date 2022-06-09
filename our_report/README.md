@@ -48,12 +48,23 @@ Review needed Technologies:
 
 
 # 3rd Deliverable 
+Designing Senario:
+Ο Αντώνης είναι 5 χρονών και παεί στο νηπιαγωγίο. Στην είσοδο της αιθοθσας υπάρχει το προιόν. Ο μικρός αντώνης μπόρει στο διαλειμα να αλληλεπιδράσει με το τεχνούργημα κουνωντας τα χέρια του μπροστά από τον αισθητήρα, η οθόνη του τεχνουργήματος θα παραξεί μια animation εικόμα συμφωνη με τις κινησεις του παιδιού.
+
+Prototype:
+
+![image](https://user-images.githubusercontent.com/101328993/172921000-9e5fa0fa-64b0-4369-b299-d2e643ee3837.png)
+![image](https://user-images.githubusercontent.com/101328993/172921052-7f1053e2-a483-4663-a562-736602c5a299.png)
+![image](https://user-images.githubusercontent.com/101328993/172920971-f8fec15b-a75e-4f7a-b12b-67ab205352e5.png)
+
 
 
 # Conclusions
+Αρχικά κάναμε καποιά έρευνα στο διαδικτυο για να πάρουμε ίδεες και να καταλληξουμε στο τελικό brief. Μετά προμηθευτήκαμε τον αισθητήρα και ξεκινησαμε να στήνουμε το arduino και τον κώδικα για την εργασία. Η ενεργοποίηση του σένσορα ήταν το κομμάτι που μας δυσκόλεψε περισσότερο 
 
 
 # Sources
 https://www.arduino.cc/education/interactive-art-project?fbclid=IwAR0WFNl_j8gfs0kTGO1bSmYQIzk50Eh9iPxta66lPsm4o6aec6KrYDIAOxQ
 https://www.youtube.com/watch?v=gToZF1GLp-Q
 https://www.w3schools.com/java/java_try_catch.asp
+https://www.youtube.com/watch?v=Lx7KEaRLOU0
